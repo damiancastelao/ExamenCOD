@@ -9,5 +9,9 @@ public class Main {
     public static void main(String[] args) {
         // Imprime un mensaje
         System.out.println("Hola Examen!");
+        System.out.println("Realizando el examen...");
+        System.out.println("Examen terminado...");
+        System.out.println("Rama datos");
+
     }
 }
